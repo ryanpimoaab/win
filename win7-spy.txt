@@ -11,8 +11,6 @@ cds407.fra.llnw.net
 compatexchange1.trafficmanager.net
 cy2.settings.data.microsoft.com.akadns.net
 db5.settings.data.microsoft.com.akadns.net
-elecommand.telemetry.microsoft.com
-eredo.ipv6.microsoft.com
 eu.vortex.data.microsoft.com
 geo.settings.data.microsoft.com.akadns.net
 gwx.windows.com
@@ -20,5 +18,7 @@ settings-win.data.microsoft.com
 spynet2.microsoft.com
 spyneteurope.microsoft.akadns.net
 sqm.telemetry.microsoft.com
+elecommand.telemetry.microsoft.com
+eredo.ipv6.microsoft.com
 vortex-win.data.microsoft.com
 watson.microsoft.com
